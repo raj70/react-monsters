@@ -22,3 +22,8 @@ reportWebVitals();
  *  ncu -u
  *  npm install
  */
+
+/** added typescript
+ * 
+ * npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+ */
